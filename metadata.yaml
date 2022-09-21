@@ -1,0 +1,32 @@
+_repo: Sparrow-the-tramp-A-fable-for-children_68899
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: McDermott, Jessie
+    gutenberg_agent_id: '45354'
+    url: http://www.gutenberg.org/2009/agents/45354
+  - agent_name: Wesselhoeft, Lily F.
+    alias: Wesselhoeft, Elizabeth Foster Pope
+    birthdate: 1840
+    deathdate: 1919
+    gutenberg_agent_id: '45004'
+    url: http://www.gutenberg.org/2009/agents/45004
+description: ''
+gutenberg_issued: '2022-09-03'
+identifiers:
+  gutenberg: '68899'
+language: en
+pgterms:marc905: 20180929115931wesselhoef
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: D A Alexander, Dorothy Scrafford Whaley (who received the book on
+  her sixth birthday, October 16th, 1912, and bequeathed the book to her granddaughter,
+  the PM and PP for the book), and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: United States :Little, Brown and Company,1888,reprint 1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sparrow the tramp: A fable for children'
+url: http://www.gutenberg.org/ebooks/68899
